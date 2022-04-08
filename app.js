@@ -4,6 +4,7 @@ Delaney made a scary change.
 here is my change
 today is friday
 today is actually saturday!
+No, you are wrong. It is Friday.
 // let state
 
 // set event listeners
