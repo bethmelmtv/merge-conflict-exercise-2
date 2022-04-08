@@ -1,4 +1,5 @@
 // import functions and grab DOM elements
+I am making a change and putting them in my pocket.
 
 Delaney made a scary change.
 here is my change
