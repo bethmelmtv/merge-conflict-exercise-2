@@ -1,11 +1,15 @@
 // import functions and grab DOM elements
 I am making a change and putting them in my pocket.
 
+
+
+
 Delaney made a scary change.
 here is my change
 today is friday
 today is actually saturday!
 No, you are wrong. It is Friday.
+
 // let state
 my second change in my other pocket
 
