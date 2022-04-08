@@ -1,5 +1,5 @@
 here is my change
-
+today is friday
 // let state
 
 // set event listeners 
