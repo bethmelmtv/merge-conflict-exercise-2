@@ -1,3 +1,4 @@
+const Beth = 4;
 // import functions and grab DOM elements
 
 // let state
