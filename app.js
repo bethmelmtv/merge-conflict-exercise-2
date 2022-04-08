@@ -7,6 +7,7 @@ today is friday
 today is actually saturday!
 No, you are wrong. It is Friday.
 // let state
+my second change in my other pocket
 
 // set event listeners
   // get user input
